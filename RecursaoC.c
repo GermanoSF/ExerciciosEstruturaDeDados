@@ -2,7 +2,8 @@
 #include<time.h>
 #include<stdlib.h>
 
-#define TAM 10 //tamanho do vetor 
+#define TAM 10
+//tamanho do vetor 
 
 void popular_exibir(int vetor[],int n){ //popula e exibe os valores do vetor, popula em ordem decrescente, exibe em ordem crescente
 	
